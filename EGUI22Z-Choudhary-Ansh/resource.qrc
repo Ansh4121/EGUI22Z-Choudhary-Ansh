@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/json">
+        <file>books.json</file>
+        <file>users.json</file>
+    </qresource>
+</RCC>
